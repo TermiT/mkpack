@@ -1,0 +1,2 @@
+; dlltool -z PVRTexLib.def --export-all-symbols -D PVRTexLib.dll -l libPVRTexLib.lib
+EXPORTS
